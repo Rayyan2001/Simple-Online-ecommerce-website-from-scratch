@@ -15,20 +15,5 @@ Steps to run:
 2) Open phpmyadmin and create db name 'ecom'.
 3) Import db of ecom from ecom.sql
 
-
-========================================================================
-
-user login:
-email: admin@gmail.com
-pass: admin
-
------------------------------------------------------------------------
-admin login:
-
-name: admin
-pass: admin
-
-add delivery boy and do it yourself
-
-+=======================================================================
+=======================================================================
 Copyright @ APPS 2023
